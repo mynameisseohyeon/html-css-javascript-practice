@@ -1,0 +1,63 @@
+   
+        a{
+            color: skyblue;
+            text-decoration: none;
+        }
+        /* a */
+
+        h1{
+            font-size: 60px;
+            text-align: center;
+            border-bottom : 1px gray solid;
+            padding: 40px;
+            margin: 0px;
+        }
+        /* h1 */
+
+        .title{
+            color: palevioletred;
+        }
+        /* title */
+
+        #grid ul{
+            border-right : 1px gray solid;
+            width: 150px;
+            padding: 10px;
+            padding-left: 52px;
+            padding-top: 28px;
+            margin: 0px;
+        }
+        /* grid - ul */
+
+        body{
+            margin: 0px;
+        }
+        /* body */
+
+        #grid{
+            display: grid;
+            grid-template-columns: 300px 1fr;
+        
+        }
+        /* grid */
+
+        #Lyrics{
+            padding-top: 20px;
+        }
+        /* Lyrics */
+        
+        @media(max-width:750px){
+            #grid{
+            display: block;
+            }
+            
+            #Lyrics{
+                padding-left: 33px;
+            }
+
+            #grid ul{
+            border-right: none;
+            }
+
+        }
+        /*screen width < 750px */
