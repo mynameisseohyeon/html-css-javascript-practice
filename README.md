@@ -4,3 +4,6 @@
 
 >[https://mynameisseohyeon.github.io/first-web-site/
 ](https://mynameisseohyeon.github.io/html-css-javascript-practice/)
+
+
+[file (1).pdf](https://github.com/mynameisseohyeon/html-css-javascript-practice/files/9439145/file.1.pdf)
