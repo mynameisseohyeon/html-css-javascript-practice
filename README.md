@@ -5,5 +5,4 @@
 >[https://mynameisseohyeon.github.io/first-web-site/
 ](https://mynameisseohyeon.github.io/html-css-javascript-practice/)
 
-
-[file (1).pdf](https://github.com/mynameisseohyeon/html-css-javascript-practice/files/9439145/file.1.pdf)
+![image](https://user-images.githubusercontent.com/105976431/187059384-e85d9cc3-c88d-4bf0-8442-96ec281bf311.png)
